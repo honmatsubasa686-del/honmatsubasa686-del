@@ -28,7 +28,7 @@ COACHTECH 教材のハンズオンで作成したリポジトリです。
 - [middleware-app-practice](https://github.com/honmatsubasa686-del/middleware-app-practice) - ミドルウェア
 - [auth-app-practice](https://github.com/honmatsubasa686-del/auth-app-practice) - 承認機能
 - [validation-app-practice](https://github.com/honmatsubasa686-del/validation-app-practice) - バリデーション
-- [relation-app-practice])(https://github.com/honmatsubasa686-del/relation-app-practice) - リレーション
+- [relation-app-practice](https://github.com/honmatsubasa686-del/relation-app-practice) - リレーション
 - [eloquent-app-practice](https://github.com/honmatsubasa686-del/eloquent-app-practice) - Eloquent ORM
 - [database-app-practice](https://github.com/honmatsubasa686-del/database-app-practice) - データベース操作
 - [profile-app-practice](https://github.com/honmatsubasa686-del/profile-app-practice) - Laravel基礎
